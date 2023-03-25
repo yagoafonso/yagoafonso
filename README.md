@@ -1,6 +1,3 @@
----
-marp: false
----
 
 <h1> Hi There👋</h1>
 <p>My name is Yago Afonso and I'm a Front-end developer from Brazil.</p>
